@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I have no idea yet! But stupid silly counter that should count to 0 to 9 and back down on
+the 7 segment display.
 
 ## How to test
 
-Explain how to use your project
+Turn it on, set a 1hz clock and watch it count..
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment from the demo board
